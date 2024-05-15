@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Frank+Ruhl+Libre:wght@300..900&display=swap');
+
+body {
+    font-family: "Frank Ruhl Libre", serif;
+    text-align: center;
+    background-image: url(https://img.elo7.com.br/product/600x380/351378E/papel-de-parede-adesivo-harry-potter-adesivo-quarto.jpg);
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+
+#box{
+    padding: 4vh;
+    margin-top: 12vh;
+    background-color: white;
+    height: 60vh;
+    width: 100vh;
+    border-style: solid;
+    border-radius: 4vh;
+    border-color: black;
+    text-align: center;
+}
+
+
+#character-info {
+    margin-top: 20px;
+
+}
+
+h1{
+    color: rgb(0, 0, 0);
+}
+
+
+
+p{
+    font-size: large;
+}
+
+
+#hp{
+    margin-top: 8vh;
+    height: 16vh;
+}
